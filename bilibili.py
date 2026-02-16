@@ -46,9 +46,9 @@ def check_in_coin():
 
 
 def main():
-    # check_in_exp()
+    check_in_exp()
     # time.sleep(3)
-    check_in_coin()
+    # check_in_coin()
     # resp = session.get("https://api.bilibili.com/x/vip/privilege/my", headers=headers)
 
 
